@@ -8,3 +8,6 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 # README #
+
+Hello world, I love using git!
+
