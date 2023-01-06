@@ -9,5 +9,5 @@ Important steps for git workflow:
 
 # README #
 
-Hello world, I love using git!
+Hello world, I love using git! Making a change in the remote repository to practice pulling it from my local repository, I think
 
